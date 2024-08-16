@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalyst: Movement Building for Social Impact</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .package {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .package h3 {
+            color: #3498db;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Catalyst: Movement Building for Social Impact</h1>
+    </header>
+
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Our consultancy firm offers a comprehensive movement building program called "Catalyst" designed to help organizations create and sustain social impact movements. We combine strategic planning, community engagement, and digital mobilization to amplify your cause and drive meaningful change.</p>
+    </section>
+
+    <section id="objectives">
+        <h2>Core Objectives</h2>
+        <ul>
+            <li>Empower organizations to build and grow grassroots movements</li>
+            <li>Increase public engagement and support for social causes</li>
+            <li>Develop sustainable strategies for long-term impact</li>
+            <li>Maximize resource utilization and impact measurement</li>
+        </ul>
+    </section>
+
+    <section id="components">
+        <h2>Key Components</h2>
+        <ul>
+            <li>Strategic Planning</li>
+            <li>Community Engagement</li>
+            <li>Digital Mobilization</li>
+            <li>Leadership Development</li>
+            <li>Impact Measurement</li>
+        </ul>
+    </section>
+
+    <section id="packages">
+        <h2>Packages</h2>
+        
+        <div class="package">
+            <h3>Spark Package</h3>
+            <ul>
+                <li>Movement strategy workshop (1 day)</li>
+                <li>Basic digital toolkit setup</li>
+                <li>3 months of advisory support</li>
+            </ul>
+            <p><em>Ideal for: Small nonprofits or startups</em></p>
+        </div>
+
+        <div class="package">
+            <h3>Ignite Package</h3>
+            <ul>
+                <li>Comprehensive movement strategy development (3 days)</li>
+                <li>Advanced digital toolkit and training</li>
+                <li>Community engagement plan</li>
+                <li>6 months of advisory support</li>
+                <li>Quarterly impact assessment</li>
+            </ul>
+            <p><em>Ideal for: Mid-sized organizations or established nonprofits</em></p>
+        </div>
+
+        <div class="package">
+            <h3>Blaze Package</h3>
+            <ul>
+                <li>Full-scale movement building program (6 months)</li>
+                <li>Custom digital platform development</li>
+                <li>Leadership training program</li>
+                <li>Community organizing bootcamp</li>
+                <li>Ongoing advisory support</li>
+                <li>Monthly impact assessment and strategy refinement</li>
+            </ul>
+            <p><em>Ideal for: Large organizations or coalitions</em></p>
+        </div>
+    </section>
+
+    <section id="methodology">
+        <h2>Methodology</h2>
+        <p>Our approach combines proven movement building techniques with innovative digital strategies. We emphasize:</p>
+        <ul>
+            <li>Data-driven decision making</li>
+            <li>Adaptive management</li>
+            <li>Inclusive and diverse community building</li>
+            <li>Sustainable and ethical practices</li>
+        </ul>
+    </section>
+
+    <section id="outcomes">
+        <h2>Expected Outcomes</h2>
+        <ul>
+            <li>Increased supporter base and engagement</li>
+            <li>Enhanced organizational capacity for movement building</li>
+            <li>Improved resource mobilization</li>
+            <li>Measurable progress towards social impact goals</li>
+        </ul>
+    </section>
+
+    <section id="why-choose-us">
+        <h2>Why Choose Us</h2>
+        <ul>
+            <li>Experienced team of movement builders and digital strategists</li>
+            <li>Tailored approach to each client's unique needs and context</li>
+            <li>Focus on sustainable, long-term impact</li>
+            <li>Proven track record of successful movements</li>
+        </ul>
+    </section>
+</body>
+</html>
